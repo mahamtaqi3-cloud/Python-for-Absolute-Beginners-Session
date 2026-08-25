@@ -81,6 +81,3 @@ You can find it in [`final-project/quiz_game.ipynb`](./final-project/quiz_game.i
 
 Found a typo, a broken notebook cell, or have a suggestion? Feel free to open an issue or submit a pull request.
 
-## License
-
-*(MIT)*
